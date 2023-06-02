@@ -1,0 +1,10 @@
+* uses chrome v8 engine
+* trabalhar de forma assicrona
+
+* Application <=> V8 engine <=> Node.JS Binding <=> Event Queue <=> Event Loop <=> Worker Threads
+* Fila de eventos, sendo atendida pelo event loop e repassando eventos para a fila de worker threads
+* Em node cada arquivo representa 1 módulo
+* CommonJS vs ECMA2015
+
+* npm install <module> => install module on folder
+* npm install -g <module> = install module globally

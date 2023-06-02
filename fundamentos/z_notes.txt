@@ -1,0 +1,4 @@
+- linguagem fracamente tipada (troca de valores entre diferentes tipos)
+- execução no browser (var e functions ficam salvas no objeto global => window)
+- this => referencia objeto de execução
+- node => global; browser => window;

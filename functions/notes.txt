@@ -1,0 +1,4 @@
+* High order functions
+** Can be used as variables, passed as other func args, etc...
+* Named args are not possible
+* Params and returns are always optional

@@ -1,0 +1,3 @@
+-- Prototype based
+* composition => several parents
+* heritage => one parent
